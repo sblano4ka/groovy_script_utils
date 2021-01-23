@@ -1,0 +1,13 @@
+
+### IntelliJ IDEA ###
+.idea
+*.DS_Store
+*.iws
+*.iml
+*.ipr
+/**/target
+.settings
+.classpath
+.project
+.factorypath
+bin/
